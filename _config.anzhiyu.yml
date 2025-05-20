@@ -535,7 +535,7 @@ footer:
       - link: https://icp.gov.moe/?keyword=20250629
         text: 萌ICP备20250629号
     subTitle:
-      enable: false
+      enable: true
       # Typewriter Effect (打字效果)
       effect: true
       # Effect Speed Options (打字效果速度参数)
@@ -553,7 +553,7 @@ footer:
       source: 1
       # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
       sub:
-        # - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期.
+        人间值得&#44; 未来可期. # - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期.
 
 # Analysis
 # --------------------------------------
@@ -1241,10 +1241,14 @@ inject:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/custom.css">
+    - <link rel="stylesheet" href="/css/schedule.css">
 
   bottom:
     # 自定义js
     # - <script src="/js/xxx"></script>
+    - <script src="/js/footer-animal.js" media="defer" ></script>
+    - <script src="/js/schedule.js"></script>
+    - <script src="/js/chineselunar.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
