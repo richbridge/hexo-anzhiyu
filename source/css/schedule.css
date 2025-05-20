@@ -1,8 +1,3 @@
-.card-widget {
-    padding: 0px!important;     /* 原文padding: 10px!important;这样会导致微信卡css发生错误 */
-    max-height: calc(100vh - 100px);
-}
-
 .card-times a, .card-times div {
     color: var(--efu-fontcolor);
 }
