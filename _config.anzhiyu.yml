@@ -95,8 +95,8 @@ algolia_search:
   hits:
     per_page: 6
   tags:
-    - 前端
-    - Hexo
+    - CPA
+    - 审计
 
 # Docsearch
 # Apply and Option Docs: see https://docsearch.algolia.com/
@@ -1055,18 +1055,18 @@ home_top:
   subTitle: 万物可爱。
   siteText: 262252.xyz
   category:
-    - name: 前端
-      path: /categories/前端开发/
+    - name: 财技
+      path: /categories/财技/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+    - name: 审技
+      path: /categories/审技/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: 税技
+      path: /categories/税技/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
@@ -1087,7 +1087,7 @@ friends_vue:
   vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.2/friends/index.f9a2b8d2.js
   apiurl: https://f.richfan.site/ # 朋友圈后端地址
   top_tips: 使用 友链朋友圈 订阅友链最新文章
-  top_background: https://img02.anheyu.com/adminuploads/1/2022/08/21/630249e2df20f.jpg
+  top_background: https://s2.loli.net/2025/05/03/QDp53aKFBAwMt61.jpg
 
 # 深色模式粒子效果canvas
 universe:
@@ -1095,7 +1095,7 @@ universe:
 
 # 页面卡片顶部气泡升起效果
 bubble:
-  enable: false
+  enable: true
 
 #  控制台打印信息
 console:
@@ -1115,7 +1115,7 @@ diytitle:
 
 # 留言弹幕配置
 comment_barrage_config:
-  enable: false
+  enable: true
   # 同时最多显示弹幕数
   maxBarrage: 1
   # 弹幕显示间隔时间ms
@@ -1154,40 +1154,40 @@ ptool:
 
 # 欢迎语配置
 greetingBox:
-  enable: false #开启后必须配置下面的list对应的时间段，不然会出现小白条
+  enable: true #开启后必须配置下面的list对应的时间段，不然会出现小白条
   default: 晚上好👋
   list:
-    # - greeting: 晚安😴
-    #   startTime: 0
-    #   endTime: 5
-    # - greeting: 早上好鸭👋, 祝你一天好心情！
-    #   startTime: 6
-    #   endTime: 9
-    # - greeting: 上午好👋, 状态很好，鼓励一下～
-    #   startTime: 10
-    #   endTime: 10
-    # - greeting: 11点多啦, 在坚持一下就吃饭啦～
-    #   startTime: 11
-    #   endTime: 11
-    # - greeting: 午安👋, 宝贝
-    #   startTime: 12
-    #   endTime: 14
-    # - greeting: 🌈充实的一天辛苦啦！
-    #   startTime: 14
-    #   endTime: 18
-    # - greeting: 19点喽, 奖励一顿丰盛的大餐吧🍔。
-    #   startTime: 19
-    #   endTime: 19
-    # - greeting: 晚上好👋, 在属于自己的时间好好放松😌~
-    #   startTime: 20
-    #   endTime: 24
+    - greeting: 晚安😴
+      startTime: 0
+      endTime: 5
+    - greeting: 早上好鸭👋, 祝你一天好心情！
+      startTime: 6
+      endTime: 9
+    - greeting: 上午好👋, 状态很好，鼓励一下～
+      startTime: 10
+      endTime: 10
+    - greeting: 11点多啦, 在坚持一下就吃饭啦～
+      startTime: 11
+      endTime: 11
+    - greeting: 午安👋, 宝贝
+      startTime: 12
+      endTime: 14
+    - greeting: 🌈充实的一天辛苦啦！
+      startTime: 14
+      endTime: 18
+    - greeting: 19点喽, 奖励一顿丰盛的大餐吧🍔。
+      startTime: 19
+      endTime: 19
+    - greeting: 晚上好👋, 在属于自己的时间好好放松😌~
+      startTime: 20
+      endTime: 24
 
 # 文章顶部ai摘要
 post_head_ai_description:
   enable: true
   gptName: RICH
   mode: local # 默认模式 可选值: tianli/local
-  switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
+  switchBtn: true # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://afdian.net/item/886a79d4db6711eda42a52540025c377
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
   basicWordCount: 1000 # 最低获取字符数, 最小1000, 最大1999
@@ -1231,8 +1231,8 @@ peoplecanvas:
 # 动效
 dynamicEffect:
   postTopWave: true # 文章顶部波浪效果
-  postTopRollZoomInfo: false # 文章顶部滚动时缩放
-  pageCommentsRollZoom: false # 非文章页面评论滚动时缩放显示（仅仅Twikoo生效）
+  postTopRollZoomInfo: true # 文章顶部滚动时缩放
+  pageCommentsRollZoom: true # 非文章页面评论滚动时缩放显示（仅仅Twikoo生效）
 
 # Inject
 # Insert the code to head (before '</head>' tag) and the bottom (before '</body>' tag)
@@ -1351,7 +1351,7 @@ fcircle:
   randomFriendsPostJS: https://npm.elemecdn.com/hexo-filter-fcircle-anzhiyu@1.1.2/assets/js/random-friends-post.js
   topIcon: fas fa-arrow-right
   topLink: /about/
-  top_background: https://img02.anheyu.com/adminuploads/1/2022/08/21/630249e2df20f.jpg
+  top_background: https://s2.loli.net/2025/05/03/QDp53aKFBAwMt61.jpg
   path: /fcircle #【可选】fcircle的路径名称。默认为 fcircle，生成的页面为 fcircle/index.html
   front_matter: #【可选】fcircle页面的 front_matter 配置
     title: 朋友圈
