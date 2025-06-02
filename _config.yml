@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://fanrich.eu.org/
+url: https://richfan.eu.org/
 permalink: :title/ # :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,7 +102,7 @@ algolia:
   apiKey: "e45ee8cb7e57f59fdfc446a93c960064"
   adminApiKey: "9cbc92febdae304c2e2c1e0f5610027b"
   chunkSize: 5000
-  indexName: "hexo-butterfly"
+  indexName: "hexo"
   fields:
     - content:strip:truncate,0,500
     - excerpt:strip
