@@ -7,7 +7,7 @@ menu:
   友链:
     友人帐: /link/ || anzhiyu-icon-link
     朋友圈: /fcircle/ || anzhiyu-icon-artstation
-    藏宝阁: /collect/ || anzhiyu-icon-shoe-prints1
+    # 藏宝阁: /collect/ || anzhiyu-icon-shoe-prints1
     留言板: /comments/ || anzhiyu-icon-envelope
 
   我的:
@@ -813,8 +813,12 @@ aside:
     name_link: /
 
   card_announcement:
-    enable: false
-    content: 欢迎来看我的博客鸭~
+    enable: true # 必须开启
+    content: <span>👋🏻 Hi，我是RICH，欢迎你！</span><br>
+            <span>❓ 如有问题欢迎评论区交流！</span><br>
+            <span>😫 页面异常？尝试<kbd>Ctrl</kbd>+<kbd>F5</kbd></span><br>
+            <span>📧 如需联系我：<a href="mailto:2629099252@qq.com"><b>发送邮件🚀</b></a></span>
+            <div id="welcome-info"></div> # 必须项
   card_weixin:
     enable: true
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
@@ -1084,8 +1088,8 @@ home_top:
 # 朋友圈配置
 friends_vue:
   enable: true
-  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.2/friends/index.f9a2b8d2.js
-  apiurl: https://f.richfan.site/ # 朋友圈后端地址
+  vue_js: /js/friends.js
+  apiurl: https://f.richfan.site # 朋友圈后端地址
   top_tips: 使用 友链朋友圈 订阅友链最新文章
   top_background: https://s2.loli.net/2025/05/03/QDp53aKFBAwMt61.jpg
 
@@ -1250,6 +1254,7 @@ inject:
     - <script src="/js/footer-animal.js" media="defer" ></script>
     - <script src="/js/schedule.js"></script>
     - <script src="/js/chineselunar.js"></script>
+    - <script src="/js/card-welcome.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
@@ -1358,3 +1363,12 @@ fcircle:
     comments: false
     aside: false
     top_img: false
+
+# 来访者卡片
+card_announcement:
+  enable: true # 必须开启
+  content: <span>👋🏻 Hi，我是梦爱吃鱼，欢迎你！</span><br>
+           <span>❓ 如有问题欢迎评论区交流！</span><br>
+           <span>😫 页面异常？尝试<kbd>Ctrl</kbd>+<kbd>F5</kbd></span><br>
+           <span>📧 如需联系我：<a href="mailto:ruoms@qq.com"><b>发送邮件🚀</b></a></span>
+           <div id="welcome-info"></div> # 必须项
