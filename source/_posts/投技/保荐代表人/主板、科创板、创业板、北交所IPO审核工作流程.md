@@ -1,7 +1,7 @@
 ---
 title: 主板、科创板、创业板、北交所IPO审核工作流程
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [投技]
 tags: [IPO]
 date: 2023-10-23

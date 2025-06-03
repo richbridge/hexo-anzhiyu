@@ -1,7 +1,7 @@
 ---
 title: "第二章 Python 语法基础，IPython 和 Jupyter Notebooks"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ["python"]
 date: 2023-09-25

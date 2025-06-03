@@ -1,7 +1,7 @@
 ---
 title: "014-如果怀疑企业财务造假，应最先核查哪个/哪几个会计科目（猫大叔的财会窝）"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

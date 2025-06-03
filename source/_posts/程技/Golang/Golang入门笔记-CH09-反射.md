@@ -1,7 +1,7 @@
 ---
 title: Golang入门笔记-CH09-反射
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: [Golang]
 date: 2022-10-01

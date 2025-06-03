@@ -2,7 +2,7 @@
 title: shell速查表
 date: 2018-09-08 11:48:24
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ['shell','linux']
 ---

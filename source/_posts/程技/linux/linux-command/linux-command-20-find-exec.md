@@ -2,7 +2,7 @@
 title: '每天一个linux命令（20）: find命令之exec'
 date: 2016-12-20 10:47:32
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ["linux命令"]
 ---

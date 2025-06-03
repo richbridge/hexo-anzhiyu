@@ -2,7 +2,7 @@
 title: sudo命令免密码设置
 date: 2017-09-11 09:30:55
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ['linux']
 ---

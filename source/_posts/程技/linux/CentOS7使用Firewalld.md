@@ -2,7 +2,7 @@
 title: CentOS7使用Firewalld
 date: 2017-09-19 09:53:53
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ['firewall']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "008-八大审计三年，C 社治好了我的精神内耗（CPA 研习社）"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

@@ -2,7 +2,7 @@
 title: linux无损调整分区大小
 date: 2017-05-17 22:00:42
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ['运维','磁盘分区']
 ---

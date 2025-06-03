@@ -1,7 +1,7 @@
 ---
 title: IT审计可以扔掉mysql了，新神器duckdb来临！
 date: 2023-05-05
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [审技]
 tags: [IT审计]
 ---

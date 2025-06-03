@@ -2,7 +2,7 @@
 title: docker仓库
 date: 2017-05-23 21:15:52
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ['docker','docker仓库']
 ---

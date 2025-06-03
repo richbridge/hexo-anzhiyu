@@ -1,7 +1,7 @@
 ---
 title: "013-财务造假的五种方式（马靖昊说会计）"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

@@ -2,7 +2,7 @@
 title: '每天一个linux命令（38）: route'
 date: 2017-01-07 10:16:34
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ["linux命令"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: IT审计操作流程
 date: 2023-08-15
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [审技]
 tags: [IT审计]
 ---

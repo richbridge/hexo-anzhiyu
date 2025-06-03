@@ -2,7 +2,7 @@
 title: QEMU - QuickStart
 date: 2023-08-06 18:00:00
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: [qemu]
 ---

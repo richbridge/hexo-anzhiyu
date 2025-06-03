@@ -2,7 +2,7 @@
 title: '每天一个linux命令（17）: whereis'
 date: 2016-12-17 10:42:58
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.png
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
 categories: [程技]
 tags: ["linux命令"]
 ---
