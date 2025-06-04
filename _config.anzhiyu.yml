@@ -1125,9 +1125,9 @@ comment_barrage_config:
   # 弹幕显示间隔时间ms
   barrageTime: 4000
   # token，在控制台中获取
-  accessToken: ""
+  accessToken: "16809cc26fa4a8e37b97b45bcc778d87"
   # 博主邮箱md5值
-  mailMd5: ""
+  mailMd5: "051EC2223962CE35BBE10F5E5F43F1AA"
 
 # 左下角音乐配置项
 # https://github.com/metowolf/MetingJS
@@ -1196,7 +1196,7 @@ post_head_ai_description:
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
   basicWordCount: 1000 # 最低获取字符数, 最小1000, 最大1999
   key: P-SUJ6C2E19O8N7TP3
-  Referer: https://xx.xx/
+  Referer: https://richfan.eu.org/
 
 # 快捷键配置
 shortcutKey:
