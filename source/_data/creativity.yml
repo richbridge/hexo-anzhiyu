@@ -1,0 +1,50 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: GPT4
+      color: "#fff"
+      icon: https://image.wxiaow.us.kg/file/2af3ac9420ef0d36145da.png
+    - name: HuggingFace
+      color: "#fff"
+      icon: https://image.wxiaow.us.kg/file/34da81d5a5302755252dc.png
+    - name: Vue.js
+      color: "#6c48ba"
+      icon: https://image.wxiaow.us.kg/file/839480b1ec522e6468f75.png
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Hexo
+      color: "#fff"
+      icon: https://image.wxiaow.us.kg/file/c3b029a792514d9627d7b.png
+    - name: Pinia
+      color: "#fff"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/pinia-logo.svg
+    - name: Python
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
+    - name: Vite
+      color: "#937df7"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+    - name: Docker
+      color: "#0092E6"
+      icon: https://image.wxiaow.us.kg/file/45ce29545154654fe8cea.png
+    - name: Vscode
+      color: "#e2ffff"
+      icon: https://image.wxiaow.us.kg/file/df7fd347b249820b5f662.png
+    - name: Vercel
+      color: "#fff"
+      icon: https://image.wxiaow.us.kg/file/f0db8d4f607da8d4062db.png
+    - name: Claude
+      color: "#B1886C"
+      icon: https://image.wxiaow.us.kg/file/0e53e2334483af0391b65.png
+    - name: Zeabur
+      color: "#000000"
+      icon: https://image.wxiaow.us.kg/file/7fb97c16b8f284bc1cb0a.png
+    - name: Bing
+      color: "#fff"
+      icon: https://image.wxiaow.us.kg/file/412427add9d6fdfc0f5cb.png
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
+    - name: Github
+      color: "#fff"
+      icon: https://image.wxiaow.us.kg/file/7db5b854d3a4cb270137d.png
