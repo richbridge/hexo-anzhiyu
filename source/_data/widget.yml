@@ -2,7 +2,7 @@ top:
   - class_name: guest
     id_name: guest
     name: 来访者
-    icon: fa fa-wifi
+    icon: anzhiyu-icon-shoe-prints
     html: <div id="welcome-info"></div></code></pre>
   - class_name: card-countdown
     id_name: 
