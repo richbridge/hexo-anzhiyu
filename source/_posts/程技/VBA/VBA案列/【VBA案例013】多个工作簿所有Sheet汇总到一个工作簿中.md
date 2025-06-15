@@ -2,7 +2,7 @@
 title: 【VBA案例013】多个工作簿所有Sheet汇总到一个工作簿中
 date: 2023-10-23
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: [VBA]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "012-经常发生审计舞弊的领域和报表项目有哪些"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

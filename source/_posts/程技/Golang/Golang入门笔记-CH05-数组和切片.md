@@ -1,7 +1,7 @@
 ---
 title: Golang入门笔记-CH05-数组和切片
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: [Golang]
 date: 2022-10-01

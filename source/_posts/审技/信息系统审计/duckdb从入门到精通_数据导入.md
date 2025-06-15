@@ -1,6 +1,6 @@
 ---
 title: duckdb从入门到精通：数据导入
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [审技]
 tags: [IT审计]
 date: 2023-05-05

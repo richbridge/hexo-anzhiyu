@@ -1,7 +1,7 @@
 ---
 title: "SQL每日一题F1028，关联子查询"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: ["SQL"]
 date: 2023-08-01

@@ -1,7 +1,7 @@
 ---
 title: "106-拥有审计背景的人才去券商投行做项目的优势和劣势是什么"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

@@ -2,7 +2,7 @@
 title: docker初体验
 date: 2017-05-19 16:32:23
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: ['docker']
 ---

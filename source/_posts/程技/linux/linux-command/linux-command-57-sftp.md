@@ -2,7 +2,7 @@
 title: '每天一个linux命令（57）: sftp'
 date: 2017-03-05 16:29:38
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

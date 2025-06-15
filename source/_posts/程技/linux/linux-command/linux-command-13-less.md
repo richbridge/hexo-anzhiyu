@@ -2,7 +2,7 @@
 title: '每天一个linux命令（13）: less'
 date: 2016-12-13 21:46:14
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

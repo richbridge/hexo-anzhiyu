@@ -1,7 +1,7 @@
 ---
 title: "033-如何通过预付账款实现财务造假(盈余管理)"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

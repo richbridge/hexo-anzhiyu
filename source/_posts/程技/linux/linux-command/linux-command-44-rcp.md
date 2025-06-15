@@ -2,7 +2,7 @@
 title: '每天一个linux命令（44）: rcp'
 date: 2017-01-12 10:36:06
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

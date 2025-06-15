@@ -2,7 +2,7 @@
 title: CentOS7安装配置匿名访问Samba
 date: 2017-07-03 19:40:14
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: ['samba']
 ---

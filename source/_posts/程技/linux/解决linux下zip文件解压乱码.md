@@ -2,7 +2,7 @@
 title: 解决linux下zip文件解压乱码
 date: 2017-04-25 09:10:40
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [程技]
 tags: ['linux命令']
 ---

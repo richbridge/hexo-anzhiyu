@@ -1,7 +1,7 @@
 ---
 title: "126-36岁宝妈，大专学历，有初级财务会计和初级管理会计证，在财会行业还能有所发展吗"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

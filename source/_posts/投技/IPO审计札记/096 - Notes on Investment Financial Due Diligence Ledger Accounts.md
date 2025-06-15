@@ -1,7 +1,7 @@
 ---
 title: "096-投资财务尽职调查会计科目注意事项"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.avif
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01
