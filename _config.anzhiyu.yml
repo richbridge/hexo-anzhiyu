@@ -814,8 +814,12 @@ aside:
     name_link: /
 
   card_announcement:
-    enable: true
-    content: 欢迎来看我的博客鸭~
+    enable: true # 必须开启
+    content: <span>👋🏻 Hi，我是樊尘刹记，欢迎你！</span><br>
+            <span>❓ 如有问题欢迎评论区交流！</span><br>
+            <span>😫 页面异常？尝试<kbd>Ctrl</kbd>+<kbd>F5</kbd></span><br>
+            <span>📧 如需联系我：<a href="mailto:richffan@outlook.com"><b>发送邮件🚀</b></a></span>
+            <div id="welcome-info"></div> # 必须项
   card_weixin:
     enable: true
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
@@ -1243,15 +1247,15 @@ inject:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
-    - <link rel="stylesheet" href="/css/welcome.css">
 
   bottom:
     # 自定义js
     # - <script src="/js/xxx"></script>
     - <script async data-pjax src="/js/footer-animal.js"></script> # 页脚宠物挂件
     - <script src="/js/countdown.js"></script> # 日历
-    - <script src="/js/welcome.js"></script> # 来访者
+    - <script src="/js/card-welcome.js"></script> # 来访者
     - <script src="/js/echarts.min.js"></script>
+    - <script src="/static/comments.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
@@ -1339,11 +1343,3 @@ CDN:
     # ali_iconfont_css:
     # accesskey_js:
     # colorthief: https://cdn.bootcdn.net/ajax/libs/color-thief/2.6.0/color-thief.js
-
-card_announcement:
-  enable: true # 必须开启
-  content: <span>👋🏻 Hi，我是樊尘刹记，欢迎你！</span><br>
-           <span>❓ 如有问题欢迎评论区交流！</span><br>
-           <span>😫 页面异常？尝试<kbd>Ctrl</kbd>+<kbd>F5</kbd></span><br>
-           <span>📧 如需联系我：<a href="mailto:richffan@outlook.com"><b>发送邮件🚀</b></a></span>
-           <div id="welcome-info"></div> # 必须项
