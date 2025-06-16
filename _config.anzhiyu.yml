@@ -92,7 +92,7 @@ author_status:
 
 # Algolia search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 6
   tags:
@@ -149,7 +149,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: false # "background: url() top / cover no-repeat"
+index_img: "background: url(https://t.alcy.cc/fj) top / cover no-repeat" # "background: url() top / cover no-repeat"
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: false
@@ -555,7 +555,7 @@ footer:
       source: 1
       # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
       sub:
-        - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期.
+        # - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期.
 
 # Analysis
 # --------------------------------------
@@ -778,7 +778,7 @@ subtitle:
   # source: 2  调用一句网（简体） http://yijuzhan.com/
   # source: 3  调用今日诗词（简体） https://www.jinrishici.com/
   # subtitle 会先显示 source , 再显示 sub 的内容
-  source: 1
+  source: 3
   # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
   sub:
     # - 生活明朗&#44;万物可爱&#44;人间值得&#44;未来可期.
@@ -793,7 +793,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg # 自定加载动画义头像
+  avatar: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/avatar.avif # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -803,7 +803,7 @@ aside:
   hide: false
   button: true
   mobile: true # display on mobile
-  position: right # left or right
+  position: left # left or right
   display: # 控制对应详情页面是否显示侧边栏
     archive: true
     tag: true
@@ -1052,8 +1052,8 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 生活明朗
-  subTitle: 万物可爱。
+  title: 红尘湮灭
+  subTitle: 唯有尘刹
   siteText: richfan.eu.org
   category:
     - name: 财技
