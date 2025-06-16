@@ -1084,8 +1084,8 @@ home_top:
 # 朋友圈配置
 friends_vue:
   enable: true
-  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.2/friends/index.f9a2b8d2.js # /js/fcircle.js
-  apiurl: https://friend.252262.xyz/ # 朋友圈后端地址
+  vue_js: /js/fcircle.js # /js/fcircle.js
+  apiurl: https://friends.252262.xyz/ # 朋友圈后端地址
   top_tips: 使用 友链朋友圈 订阅友链最新文章
   top_background: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/bg.avif
 
