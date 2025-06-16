@@ -432,7 +432,7 @@ footer:
     since: 2020
   custom_text:
   runtime:
-    enable: true
+    enable: false
     launch_time: 01/01/2020 00:00:00 # 网站上线时间
     work_img: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/樊尘刹-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
