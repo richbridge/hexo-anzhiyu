@@ -1251,7 +1251,6 @@ inject:
   bottom:
     # 自定义js
     # - <script src="/js/xxx"></script>
-    - <script async data-pjax src="/js/footer-animal.js"></script> # 页脚宠物挂件
     - <script src="/js/countdown.js"></script> # 日历
     - <script src="/js/card-welcome.js"></script> # 来访者
     - <script src="/js/echarts.min.js"></script>
