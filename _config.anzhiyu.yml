@@ -1070,8 +1070,8 @@ home_top:
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 编技
-      path: /categories/编技/
+    - name: 程技
+      path: /categories/程技/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
