@@ -1247,6 +1247,7 @@ inject:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    - <script defer src="https://umami.252262.xyz/script.js" data-website-id="7e062d1a-f2ec-4dad-8f00-ae76f20b6785"></script>
 
   bottom:
     # 自定义js
