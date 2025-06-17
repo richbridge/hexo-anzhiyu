@@ -41,7 +41,7 @@
         color: "#357ef5"
       - desc: WORK,会计
         color: "#357ef5"
-    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+    img: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/生涯.jpg
   statistic:
     link: /archives
     text: 文章隧道
@@ -103,8 +103,8 @@
     like_bottom: 网站、手机、电脑软软件
   music:
     music_tips: 音乐偏好
-    music_title: 许嵩、民谣、华语流行
-    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_title: 网易云、民谣、华语流行
+    music_bg: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/音乐偏好.jpg
     music_link: /music
   reward_list:
     - name: 樊尘刹记
