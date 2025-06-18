@@ -1,7 +1,7 @@
 ---
 title: IT审计的实务操作
 date: 2023-08-15
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/审技.jpg
 categories: [审技]
 tags: [IT审计]
 ---

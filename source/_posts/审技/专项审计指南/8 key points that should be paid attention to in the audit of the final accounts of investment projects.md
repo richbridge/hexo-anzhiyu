@@ -1,7 +1,7 @@
 ---
 title: "投资项目竣工决算审计应关注的8大重点"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/审技.jpg
 categories: [审技]
 tags: ["专项"]
 date: 2023-08-01
