@@ -2,7 +2,7 @@
 title: '每天一个linux命令（40）: traceroute'
 date: 2017-01-09 10:56:53
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

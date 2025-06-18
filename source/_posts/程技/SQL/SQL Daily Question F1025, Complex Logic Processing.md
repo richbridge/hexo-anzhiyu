@@ -1,7 +1,7 @@
 ---
 title: "SQL每日一题F1025，复杂逻辑处理"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ["SQL"]
 date: 2023-08-01

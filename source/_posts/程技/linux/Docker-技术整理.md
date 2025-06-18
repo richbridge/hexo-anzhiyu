@@ -2,7 +2,7 @@
 title: Docker 技术整理
 date: 2020-09-01 22:11:00
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ['linux','docker']
 ---

@@ -1,7 +1,7 @@
 ---
 title: "037-其他应收款审计底稿经验（一只注会喵）"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

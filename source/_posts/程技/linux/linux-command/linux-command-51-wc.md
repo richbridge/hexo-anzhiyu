@@ -2,7 +2,7 @@
 title: '每天一个linux命令（51）: wc'
 date: 2017-01-19 09:33:59
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

@@ -2,7 +2,7 @@
 title: 数据库连接轻松搞定：Python 数据库推荐
 date: 2023-08-12 17:56:00
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags:  [python]
 ---

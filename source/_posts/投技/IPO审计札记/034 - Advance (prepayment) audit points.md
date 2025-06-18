@@ -1,7 +1,7 @@
 ---
 title: "034-预付款项（预付账款）审计要点"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

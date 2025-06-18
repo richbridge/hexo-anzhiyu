@@ -2,7 +2,7 @@
 title: '每天一个linux命令（42）: ss'
 date: 2017-01-11 10:34:47
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

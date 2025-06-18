@@ -1,7 +1,7 @@
 ---
 title: IPO业务54个问题解答
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
 categories: [投技]
 tags: [IPO]
 date: 2023-10-30

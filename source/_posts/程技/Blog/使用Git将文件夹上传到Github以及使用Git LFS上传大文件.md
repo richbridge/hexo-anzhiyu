@@ -1,7 +1,7 @@
 ---
 title: 使用Git将文件夹上传到Github以及使用Git LFS上传大文件
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ["blog"]
 date: 2022-02-23 17:56:00
