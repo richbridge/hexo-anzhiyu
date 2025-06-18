@@ -2,7 +2,7 @@
 title: '每天一个linux命令（35）: iostat'
 date: 2017-01-04 10:10:02
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

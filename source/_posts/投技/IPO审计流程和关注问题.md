@@ -1,7 +1,7 @@
 ---
 title: IPO审计流程和关注问题
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [投技]
 tags: [IPO]
 date: 2023-10-30

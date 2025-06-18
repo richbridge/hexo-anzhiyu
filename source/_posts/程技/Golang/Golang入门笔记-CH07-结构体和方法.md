@@ -1,7 +1,7 @@
 ---
 title: Golang入门笔记-CH07-结构体和方法
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [程技]
 tags: [Golang]
 date: 2022-10-01

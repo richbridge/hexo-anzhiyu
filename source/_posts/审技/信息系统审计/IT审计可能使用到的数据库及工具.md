@@ -1,7 +1,7 @@
 ---
 title: IT审计可能使用到的数据库及工具
 date: 2023-05-03
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [审技]
 tags: [IT审计]
 ---

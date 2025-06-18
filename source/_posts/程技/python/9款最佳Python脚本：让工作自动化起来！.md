@@ -2,7 +2,7 @@
 title: 9款最佳Python脚本：让工作自动化起来！
 date: 2023-10-22
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [程技]
 tags:  [python]
 ---

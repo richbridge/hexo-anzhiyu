@@ -1,7 +1,7 @@
 ---
 title: "067-递延收益如何进行审计（审计话事人）"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [投技]
 tags: [IPO审计手札]
 date: 2023-08-01

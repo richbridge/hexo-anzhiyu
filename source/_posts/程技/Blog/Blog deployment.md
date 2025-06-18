@@ -1,7 +1,7 @@
 ---
 title: "博客部署"
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [程技]
 tags: ["博客"]
 date: 2022-01-01

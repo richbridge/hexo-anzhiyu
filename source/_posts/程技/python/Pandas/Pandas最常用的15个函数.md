@@ -1,7 +1,7 @@
 ---
 title: 'Pandas最常用的15个函数'
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [程技]
 tags: ['Pandas']
 date: 2023-09-19

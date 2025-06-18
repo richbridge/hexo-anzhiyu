@@ -2,7 +2,7 @@
 title: '每天一个linux命令（28）: chown'
 date: 2016-12-28 09:51:30
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

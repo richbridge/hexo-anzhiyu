@@ -1,7 +1,7 @@
 ---
 title: 信息系统（IT）审计要点
 date: 2023-08-15
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/audit.jpg
+cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/CPA-审计.jpg
 categories: [审技]
 tags: [IT审计]
 ---
