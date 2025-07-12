@@ -7,7 +7,7 @@
   home_essay: true
   top_background: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/bg.avif
   essay_list:
-    - content: 安知鱼主题指南
+    - content: 樊尘刹记指南
       date: 2023/09/09
       video:
         - https://player.bilibili.com/player.html?aid=226886152&bvid=BV1Ch41137tR&cid=1081639816&p=1&autoplay=0
@@ -18,7 +18,7 @@
       image:
         - https://img02.anheyu.com/adminuploads/1/2023/07/01/64a033cb2c21e.webp!blogimg
       address: 长沙
-      from: 安知鱼
+      from: 樊尘刹记
       link: /posts/e140.html
     - content: 音乐支持了参数设置自定义歌单
       date: 2023/01/02
@@ -41,7 +41,7 @@
       link: https://blog.anheyu.com/album/
     - content: 搜索🔍支持缩略图显示啦（默认获取文章内容的第一张图片）
       date: 2022/10/23 08:00:00
-      from: 安知鱼
+      from: 樊尘刹记
     - content: 遇见彩虹🌈吃定彩虹
       date: 2022/10/23 10:00:00
       image:
