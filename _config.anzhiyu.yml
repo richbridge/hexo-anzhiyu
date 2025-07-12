@@ -30,14 +30,21 @@ nav:
   menu:
     - title: 网页
       item:
-        - name: 樊尘刹记
+        - name: 导航
+          link: https://nav.252262.xyz
+          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+        - name: 网盘
+          link: https://pan.252262.xyz
+          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+        - name: 无题
+          link: https://252262.xyz
+          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+        - name: 笔记
+          link: https://262252.xyz
+          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+        - name: 专业
           link: https://richfan.eu.org
-          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.avif
-    - title: 项目
-      item:
-        - name: 樊尘刹记
-          link: https://richfan.site/
-          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.avif
+          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -138,7 +145,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.avif
+favicon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
 
 # Avatar (头像)
 avatar:
@@ -574,7 +581,7 @@ cnzz_analytics:
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
-cloudflare_analytics:
+cloudflare_analytics: 6ca007e43b504c2d8b86a7b7170fdf37
 
 # Microsoft Clarity
 # https://clarity.microsoft.com/
