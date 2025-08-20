@@ -3,7 +3,7 @@ menu:
     隧道: /archives/ || anzhiyu-icon-box-archive
     分类: /categories/ || anzhiyu-icon-shapes
     标签: /tags/ || anzhiyu-icon-tags
-    统计: /charts/ || anzhiyu-icon-chart-line
+    # 统计: /charts/ || anzhiyu-icon-chart-line
 
   友链:
     友人帐: /link/ || anzhiyu-icon-link
@@ -15,7 +15,7 @@ menu:
     追番页: /bangumis/ || anzhiyu-icon-bilibili
     相册集: /album/ || anzhiyu-icon-images
     装备部: /equipment/ || anzhiyu-icon-keyboard
-  #   小空调: /air-conditioner/ || anzhiyu-icon-fan
+    # 小空调: /air-conditioner/ || anzhiyu-icon-fan
 
   关于:
     关于本人: /about/ || anzhiyu-icon-paper-plane
@@ -44,6 +44,11 @@ nav:
           icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
         - name: 专业
           link: https://richfan.eu.org
+          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+    - title: 项目
+      item:
+        - name: 不知所云
+          link: https://nav.262252.xyz
           icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
@@ -323,7 +328,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use: Twikoo # Twikoo/Waline
+  use: giscus # Twikoo/Waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -1261,8 +1266,6 @@ inject:
     # - <script src="/js/xxx"></script>
     - <script src="/js/countdown.js"></script> # 日历
     - <script src="/js/card-welcome.js"></script> # 来访者
-    - <script src="/js/echarts.min.js"></script>
-    - <script src="/static/comments.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
