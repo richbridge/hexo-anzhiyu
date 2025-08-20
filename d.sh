@@ -4,7 +4,7 @@ echo -e "--------------------Deploy Begin --------------------"
 
 echo -e "-------------------Step 1 Generate-------------------"
 
-hexo bangumi -u && hexo algolia
+node link.js && hexo bangumi -u && hexo algolia
 
 for i in {1..3}; do echo -e "\n" ; done
 
