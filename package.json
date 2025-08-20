@@ -17,6 +17,7 @@
     "hexo-algoliasearch": "^2.0.1",
     "hexo-bilibili-bangumi": "^1.11.1",
     "hexo-butterfly-envelope": "^1.0.15",
+    "hexo-filter-fcircle-anzhiyu": "^1.1.5",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^4.0.0",
