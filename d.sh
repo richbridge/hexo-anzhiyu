@@ -15,8 +15,7 @@ time=$(date "+%Y%m%d%H%M%S")
 git add .
 git commit -m "$time"
 git push -u origin main
-
-for i in {1..3}; do echo -e "\n" ; done
+hexo clean
 
 echo -e "-------------------Deploy End-------------------"
 
