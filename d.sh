@@ -1,11 +1,10 @@
 #! /bin/bash
 
-echo -e "\033[31;40m--------------------Deploy Begin --------------------"
+echo -e "--------------------Deploy Begin --------------------"
 
-echo -------------------Step 1 Generate-------------------
+echo -e "-------------------Step 1 Generate-------------------"
 
-cd ../hexo/
-hexo clean && hexo algolia
+hexo bangumi -u && hexo algolia && hexo clean 
 
 for i in {1..3}; do echo -e "\n" ; done
 
@@ -13,9 +12,10 @@ for i in {1..3}; do echo -e "\n" ; done
 
 echo -e "-------------------Step 2 Update-------------------"
 
+time=$(date "+%Y%m%d%H%M%S")
+
 git add .
-read -p "Input the git commit content:    " content
-git commit -m "$content"
+git commit -m "$time"
 git push -u origin main
 
 for i in {1..3}; do echo -e "\n" ; done
