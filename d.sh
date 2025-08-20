@@ -8,8 +8,6 @@ hexo bangumi -u && hexo algolia && hexo clean
 
 for i in {1..3}; do echo -e "\n" ; done
 
-
-
 echo -e "-------------------Step 2 Update-------------------"
 
 time=$(date "+%Y%m%d%H%M%S")
