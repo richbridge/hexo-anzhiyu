@@ -32,24 +32,24 @@ nav:
       item:
         - name: 导航
           link: https://nav.252262.xyz
-          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+          icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
         - name: 网盘
           link: https://pan.252262.xyz
-          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+          icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
         - name: 无题
           link: https://252262.xyz
-          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+          icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
         - name: 笔记
           link: https://262252.xyz
-          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+          icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
         - name: 专业
           link: https://richfan.eu.org
-          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+          icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
     - title: 项目
       item:
         - name: 不知所云
           link: https://nav.262252.xyz
-          icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+          icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -150,11 +150,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
+favicon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/avatar.avif
+  img: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/avatar.avif
   effect: false
 
 # Disable all banner image
@@ -805,7 +805,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/avatar.avif # 自定加载动画义头像
+  avatar: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/avatar.avif # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -835,7 +835,7 @@ aside:
   card_weixin:
     enable: true
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
-    backFace: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/backface.avif
+    backFace: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/backface.avif
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -1101,10 +1101,9 @@ home_top:
 # 朋友圈配置
 friends_vue:
   enable: true
-  vue_js: /js/fcircle.js # /js/fcircle.js
+  vue_js: https://fastly.jsdelivr.net/gh/willow-god/Friend-Circle-Lite/main/fclite.min.js
   apiurl: https://friends.252262.xyz/ # 朋友圈后端地址
-  top_tips: 使用 友链朋友圈 订阅友链最新文章
-  top_background: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/bg.avif
+  top_background: https://img02.anheyu.com/adminuploads/1/2022/08/21/630249e2df20f.jpg
 
 # 深色模式粒子效果canvas
 universe:
@@ -1293,7 +1292,7 @@ CDN:
     # main:
     # utils:
     # translate:
-    # random_friends_post_js: /js/random-friends-post.js
+    random_friends_post_js: /js/random_friends_post.js
     # right_click_menu_js:
     # comment_barrage_js:
     # ai_abstract_js:
