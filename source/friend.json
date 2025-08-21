@@ -7,13 +7,28 @@
     ],
     [
       "anzhiyu主题",
-      "https://blog.anheyu.com/",
+      "https://docs.anheyu.com/",
       "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
     ],
     [
       "安知鱼",
       "https://blog.anheyu.com/",
       "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    ],
+    [
+      "张洪Heo",
+      "https://blog.zhheo.com/",
+      "https://blog.zhheo.com/img/favicon4.0.webp"
+    ],
+    [
+      "小尘",
+      "https://blog.mcxiaochen.top/",
+      "https://blog.mcxiaochen.top/img/%E5%9C%86%E8%A7%92-avatar.png"
+    ],
+    [
+      "GB的记事簿",
+      "https://blog.gbfun.cc/",
+      "https://blog.gbfun.cc/img/avatar.jpg"
     ]
   ]
 }
