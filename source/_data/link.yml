@@ -44,6 +44,30 @@
       siteshot: https://blog.gbfun.cc/img/blog.gbfun.cc.jpg
       color: vip
       tag: 技术
+    - name: bbb-lsy07
+      link: https://blog.6uu.us/
+      avatar: https://images.6uu.us/20250511114301488.JPG
+      descr: 科技激荡人文，洞见智慧本真。
+    - name: Bleaz’s Blog
+      link: https://blog.bleaz.net/
+      descr: 不畏过往，不惧将来
+      avatar: https://api.bleaz.top/img/links/logo.jpg
+    - name: 呐吼
+      link: https://nahou.com
+      avatar: https://nahou.com/upload/icon.webp
+      descr: 不止于沉默
+    - name: 点点点
+      link: https://www.wccto.com
+      avatar: https://www.wccto.com/upload/wccto.png
+      descr: 生活在人间的天堂，日子却是平淡而真实。
+    - name: 柠檬星
+      link: https://blog.lemonstar.me
+      descr: 天空就是一杯橘子味的柠檬汽水
+      avatar: https://blog.lemonstar.me/img/site-icon-lemon.png
+    - name: Yeppioo
+      link: https://blog.yeppioo.vip/
+      avatar: https://blog.yeppioo.vip/static/img/avatar.png
+      descr: 梦想成为庄稼地里的读书人…..
 
 - class_name: 小伙伴
   class_desc: 那些人，那些事
