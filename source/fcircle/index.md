@@ -4,6 +4,7 @@ date: 2020-01-01
 comments: true
 aside: true
 top_img: false
+type: "fcircle"
 ---
 
 <div id="friend-circle-lite-root"></div>
@@ -11,7 +12,7 @@ top_img: false
     if (typeof UserConfig === 'undefined') {
         var UserConfig = {
             // 填写你的fc Lite地址
-            private_api_url: 'https://friends.262252.xyz/',
+            private_api_url: 'https://fc.liushen.fun/',
             // 点击加载更多时，一次最多加载几篇文章，默认20
             page_turning_number: 24,
             // 头像加载失败时，默认头像地址

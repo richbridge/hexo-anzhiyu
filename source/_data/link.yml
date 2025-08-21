@@ -7,7 +7,7 @@
       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
       descr: 快速、简单且强大的网站框架
     - name: anzhiyu主题
-      link: https://blog.anheyu.com/
+      link: https://docs.anheyu.com/
       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
       descr: 生活明朗，万物可爱
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
@@ -23,6 +23,32 @@
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
       color: vip
       tag: 技术
+    - name: 张洪Heo
+      link: https://blog.zhheo.com/
+      avatar: https://blog.zhheo.com/img/favicon4.0.webp
+      descr: 分享设计与科技生活
+      siteshot: https://img.zhheo.com/i/67d8fb3c51399.webp
+      color: vip
+      tag: 技术
+    - name: 小尘
+      link: https://blog.mcxiaochen.top/
+      avatar: https://blog.mcxiaochen.top/img/%E5%9C%86%E8%A7%92-avatar.png
+      descr: 分享设计与科技生活
+      siteshot: 
+      color: vip
+      tag: 技术
+    - name: GB的记事簿
+      link: https://blog.gbfun.cc/
+      avatar: https://blog.gbfun.cc/img/avatar.jpg
+      descr: 热爱生活
+      siteshot: https://blog.gbfun.cc/img/blog.gbfun.cc.jpg
+      color: vip
+      tag: 技术
+
+作者: mcxiaochenn
+链接: https://blog.mcxiaochen.top/link/
+来源: 辰渊尘の个人博客
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 - class_name: 小伙伴
   class_desc: 那些人，那些事
