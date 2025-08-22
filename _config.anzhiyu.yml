@@ -446,9 +446,9 @@ footer:
   runtime:
     enable: false
     launch_time: 01/01/2020 00:00:00 # 网站上线时间
-    work_img: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/樊尘刹-上班摸鱼中.svg
+    work_img: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/樊尘刹-上班摸鱼中.svg
     work_description: 距离月入25k也就还差一个大佬带我~
-    offduty_img: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/樊尘刹-下班啦.svg
+    offduty_img: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/樊尘刹-下班啦.svg
     offduty_description: 下班了就该开开心心的玩耍，嘿嘿~
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
@@ -1095,15 +1095,15 @@ home_top:
   banner:
     tips: 博客
     title: 樊尘刹记
-    image: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/bg.avif
+    image: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/bg.avif
     link: https://richfan.eu.org/
 
 # 朋友圈配置
 friends_vue:
   enable: true
-  vue_js: https://fastly.jsdelivr.net/gh/willow-god/Friend-Circle-Lite/main/fclite.min.js
+  vue_js: /js/fcircle.js # https://fastly.jsdelivr.net/gh/willow-god/Friend-Circle-Lite/main/fclite.min.js
   apiurl: https://friends.252262.xyz/ # 朋友圈后端地址
-  top_background: https://img02.anheyu.com/adminuploads/1/2022/08/21/630249e2df20f.jpg
+  top_background: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/bg.avif
 
 # 深色模式粒子效果canvas
 universe:

@@ -2,7 +2,7 @@
 title: Dockerfile指令详解
 date: 2017-05-22 19:11:42
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ['docker']
 ---

@@ -1,7 +1,7 @@
 ---
 title: AI
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ["AI"]
 date: 2025-07-14

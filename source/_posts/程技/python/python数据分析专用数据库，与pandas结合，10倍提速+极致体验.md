@@ -2,7 +2,7 @@
 title: python数据分析专用数据库，与pandas结合，10倍提速+极致体验
 date: 2023-08-12 17:56:00
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags:  [python]
 ---

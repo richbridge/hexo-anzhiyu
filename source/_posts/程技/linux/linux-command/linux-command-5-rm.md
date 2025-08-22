@@ -2,7 +2,7 @@
 title: '每天一个linux命令（5）: rm'
 date: 2016-12-05 13:40:38
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

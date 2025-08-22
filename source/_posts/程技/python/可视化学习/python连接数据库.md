@@ -2,7 +2,7 @@
 title: python连接各种数据库
 date: 2025-08-15
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags:  [python,数据库,sql,sqlite]
 ---

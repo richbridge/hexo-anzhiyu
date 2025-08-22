@@ -2,46 +2,46 @@
   creativity_list:
     - name: GPT4
       color: "#fff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/gpt4.avif
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/gpt4.avif
     - name: HuggingFace
       color: "#fff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/HuggingFace.avif
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/HuggingFace.avif
     - name: Vue.js
       color: "#6c48ba"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/643293b6788bd.png
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/643293b6788bd.png
     - name: Node
       color: "#333"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/js.png
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/js.png
     - name: Hexo
       color: "#fff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/Hexo.avif
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/Hexo.avif
     - name: Pinia
       color: "#fff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/pinia-logo.svg
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/pinia-logo.svg
     - name: Python
       color: "#fff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/python.png
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/python.png
     - name: Vite
       color: "#937df7"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/vite-logo.svg
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/vite-logo.svg
     - name: Docker
       color: "#0092E6"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/docker.png
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/docker.png
     - name: Vscode
       color: "#e2ffff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/Vscode.avif
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/Vscode.avif
     - name: Vercel
       color: "#fff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/vercel.avif
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/vercel.avif
     - name: Claude
       color: "#B1886C"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/Claude.avif
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/Claude.avif
     - name: Bing
       color: "#fff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/Bing.avif
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/Bing.avif
     - name: Git
       color: "#df5b40"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/643293b10ccdd.webp
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/643293b10ccdd.webp
     - name: Github
       color: "#fff"
-      icon: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/skills/Github.avif
+      icon: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/skills/Github.avif

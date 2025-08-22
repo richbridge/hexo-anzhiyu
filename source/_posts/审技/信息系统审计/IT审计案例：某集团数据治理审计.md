@@ -1,7 +1,7 @@
 ---
 title: IT审计案例：某集团数据治理审计
 date: 2023-10-18
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/审技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/审技.jpg
 categories: [审技]
 tags: [IT审计]
 ---

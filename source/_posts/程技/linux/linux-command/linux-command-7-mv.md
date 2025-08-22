@@ -2,7 +2,7 @@
 title: '每天一个linux命令（7）: mv'
 date: 2016-12-07 15:55:20
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ["linux命令"]
 ---

@@ -2,7 +2,7 @@
 title: nginx配置记录
 date: 2018-02-08 09:19:09
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ['nginx']
 ---

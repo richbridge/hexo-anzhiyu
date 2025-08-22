@@ -5,7 +5,7 @@
   buttonLink: /about/
   limit: 30
   home_essay: true
-  top_background: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/bg.avif
+  top_background: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/bg.avif
   essay_list:
     - content: 樊尘刹记指南
       date: 2023/09/09

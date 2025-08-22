@@ -1,7 +1,7 @@
 ---
 title: 注册会计师的WPS与Excel正则表达式终极指南精通数据处理的利器
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: [REG]
 date: 2025-07-17

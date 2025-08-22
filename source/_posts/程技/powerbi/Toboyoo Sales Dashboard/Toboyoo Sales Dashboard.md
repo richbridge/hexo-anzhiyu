@@ -1,7 +1,7 @@
 ---
 title: Toboyoo Sales Dashboard
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: [PB]
 date: 2025-08-15
@@ -70,43 +70,43 @@ date: 2025-08-15
 
 ## 作品截图
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_1.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_1.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_2.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_2.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_3.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_3.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_4.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_4.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_5.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_5.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_6.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_6.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_7.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_7.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_8.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_8.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_9.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_9.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_10.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_10.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_11.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_11.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_12.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_12.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_13.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_13.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_14.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_14.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_15.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_15.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_16.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_16.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_17.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_17.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_18.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_18.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_19.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/程技/powerbi/Toboyoo-Sales-Dashboard/Toboyoo-Sales-Dashboard_19.avif)
 
 ## 内嵌作品
 

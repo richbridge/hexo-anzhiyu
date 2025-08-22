@@ -2,7 +2,7 @@
 title: 600 条最强 Linux 命令总结
 date: 2017-09-06 23:01:31
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ['linux']
 ---

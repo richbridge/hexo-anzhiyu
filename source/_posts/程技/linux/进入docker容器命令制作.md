@@ -2,7 +2,7 @@
 title: 进入docker容器命令制作
 date: 2017-06-01 17:25:11
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/程技.jpg
 categories: [程技]
 tags: ['docker']
 ---

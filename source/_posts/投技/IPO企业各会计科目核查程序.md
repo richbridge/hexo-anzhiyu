@@ -1,7 +1,7 @@
 ---
 title: IPO企业各会计科目核查程序
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
 categories: [投技]
 tags: [IPO]
 date: 2023-10-30

@@ -1,6 +1,6 @@
 - class_name: 关于页
   subtitle: 红尘湮灭，唯有尘刹✨
-  avatarImg: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/avatar.avif
+  avatarImg: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/avatar.avif
   avatarSkills:
     left:
       - 🤖️ 数码科技爱好者
@@ -41,7 +41,7 @@
         color: "#357ef5"
       - desc: WORK,会计
         color: "#357ef5"
-    img: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/生涯.jpg
+    img: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/生涯.jpg
   statistic:
     link: /archives
     text: 文章隧道
@@ -61,7 +61,7 @@
   personalities:
     author_name: 执政官
     personality_type: ESFJ-A
-    photo_url: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/bg.avif
+    photo_url: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/bg.avif
     personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
     name_url: https://richfan.eu.org/
   maxim:
@@ -104,7 +104,7 @@
   music:
     music_tips: 音乐偏好
     music_title: 网易云、民谣、华语流行
-    music_bg: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/logo/音乐偏好.jpg
+    music_bg: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/音乐偏好.jpg
     music_link: /music
   reward_list:
     - name: 樊尘刹记

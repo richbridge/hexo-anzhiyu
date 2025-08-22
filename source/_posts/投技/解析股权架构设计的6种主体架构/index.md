@@ -1,7 +1,7 @@
 ---
 title: 解析股权架构设计的6种主体架构
 type: posts
-cover: https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
+cover: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/thumbnail/投技.jpg
 categories: [投技]
 tags: [股权]
 date: 2025-08-15
@@ -9,17 +9,17 @@ date: 2025-08-15
 
 什么是股权架构设计的主体架构内容？主体架构模型一般有6种，下面我们分别展开了解这6种基本架构内容。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_1.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_1.avif)
 
 ## 01 有限合伙架构
 
 这种架构模型，股东并不直接持有核心公司股权，而是通过有限合伙间接持有。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_2.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_2.avif)
 
 创始人公司一般可以为家族企业，控股公司可以是创始人的作为对外投资的投资公司，以有限责任公司主体形式比较好。典型的案例如马云的蚂蚁金服。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_3.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_3.avif)
 
 有限合伙企业的控股关键点就是普通合伙人身份，即GP。有限合伙人身份侧可作为整合其他投资人身份及员工持股，即LP。GP出资很少，但可以通过合伙协议约定享有全部话语权；LP没有话语权，但未来可以享有投资收益财产权。由上图我们知道，马云的控制权路径为：马云控制云铂公司——云铂公司控制君瀚、君澳公司——君瀚、君澳公司控股蚂蚁金服，马云轻松用1070万资金就撬动起一个万亿市值的金融帝国。
 
@@ -55,7 +55,7 @@ date: 2025-08-15
 
 或=成本费用支出额/（1-应税所得率）×应税所得率。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_4.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_4.avif)
 
 - 财政返还。满足在地方投资置业的条件，可按税收地方所得的一定比例获得返还奖励，比例视不同地方政策确定。
 
@@ -69,11 +69,11 @@ date: 2025-08-15
 
 1、钱权分离度极高的创始人股东。比如互联网企业，属于资金密集型企业，VC/PE会在发展过程中起到非常重要的作用。随着资本不断加入，创始人股东及其团队的持股比例会慢慢地被稀释得很低。为了控制权的需要，就会采取有限合伙企业的架构。我们来看看把有限合伙企业架构用到极致的绿地集团股权架构。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_5.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_5.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_6.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_6.avif)
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_7.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_7.avif)
 
 2、有短期套现图的财务投资人。
 
@@ -83,7 +83,7 @@ date: 2025-08-15
 
 这种架构很好理解，就是自然人股东直接持股核心公司股权，如图。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_8.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_8.avif)
 
 这种公司架构有什么利弊呢？
 
@@ -91,15 +91,15 @@ date: 2025-08-15
 
 （1）套现个税可预期。根据税法规定[1]，个人转让限售股，以每次限售股转让收入，减除股票原值和合理税费后的余额，为应纳税所得额，即应纳税额=[限售股转让收入[2]-（限售股原值[3]+合理税费[4]）]×20。如果通过有限合伙企业套现，税率可能是20%，也可能是35%；通过有限公司套现，全部税负可达40%。不同的股权架构 ，自然人股东套现个税率表，如图。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_9.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_9.avif)
 
 （2）套现免征增值税。通过有限合伙企业、有限公司套现均需缴纳增值税。不同持股模式下增值税税率表，如图。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_10.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_10.avif)
 
 （3）上市后套现可选择纳税地点。根据税法规定，自然人转让上市公司限售股权，纳税地点为个人股东资金账户开户的证券机构所在地。也就是说，可以比较全国各地方政府对股票交易个税的财政返还力度，不决定资金账户开户地，进而决定其纳税地。也就是我们前面所说的，税收洼地的财务返还。不同持股模式下，纳税地点比较表，如图。
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_11.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_11.avif)
 
 ### 2、缺点：
 
@@ -119,7 +119,7 @@ date: 2025-08-15
 
 典型的控股公司架构图
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_12.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_12.avif)
 
 不同的业务版块，涉及的行业税收征管是不一样的。特别是在战略规划里有IPO计划的公司，证监会不怎么喜欢混合型业务的公司。那么控股型的公司有什么优缺点呢？
 
@@ -151,19 +151,19 @@ date: 2025-08-15
 
 典型的混合股权架构，如图
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_13.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_13.avif)
 
 案例：公牛集团主体股权架构图
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_14.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_14.avif)
 
 ### 1、金字塔架构——创始人阮氏兄弟
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_15.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_15.avif)
 
 ### 2、其中：自然人直接持股架构——阮氏家族其他成员、股权激励平台安排有限合伙公司
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_16.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_16.avif)
 
 ### 3、一致行动人：阮立平、阮学平
 
@@ -187,13 +187,13 @@ date: 2025-08-15
 
 控股权模式架构，如图：
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_17.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_17.avif)
 
 （2）协议控制架构。也称“VIE”架构，是指外国投资者通过一系列协议安排控制境内运营实体，无须收购境内运营实体股权而取得境内运营实体经济利益的一种投资结构。VIE架构通常用于外国投资者投资中国限制或禁止外商投资领域的运营实体。同时，VIE架构也是该等境内运营实体实现境外上市常采用的一种投资架构。
 
 VIE模式架构，如图：
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_18.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_18.avif)
 
 ### 2、“走出去”架构：
 
@@ -201,7 +201,7 @@ VIE模式架构，如图：
 
 如巨轮股份股权架构，如图：
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_19.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_19.avif)
 
 通过上图看出，巨轮股份采用了多层股权架构，主要有以下几点原因：
 
@@ -237,7 +237,7 @@ VIE模式架构，如图：
 
 **案例：龙湖地产**
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_20.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_20.avif)
 
 这里面我们要了解一下什么是“海外信托”，龙湖地产的第一层架构就采用了家族信托，这个信托到底有什么魅力呢？
 
@@ -281,11 +281,11 @@ VIE模式架构，如图：
 
 普通契约型持股架构，如图：
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_21.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_21.avif)
 
 结构性契约型持股架构，如图：
 
-![](https://jsd.cdn.zzko.cn/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_22.avif)
+![](https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/投技/解析股权架构设计的6种主体架构/解析股权架构设计的6种主体架构_22.avif)
 
 契约型架构的优缺点：
 
