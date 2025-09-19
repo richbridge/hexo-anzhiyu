@@ -2,6 +2,9 @@
 
 echo -e "--------------------Deploy Begin --------------------"
 
+git submodule update --remote --merge source/_posts
+git submodule update --remote --merge themes/anzhiyu
+
 echo -e "-------------------Step 1 Generate-------------------"
 
 node link.js && hexo bangumi -u && hexo algolia
