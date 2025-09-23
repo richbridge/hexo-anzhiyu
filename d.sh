@@ -9,7 +9,7 @@ echo -e "------------------- 子模块更新完成 -------------------"
 
 hexo bangumi -u && hexo algolia
 
-for i in {1..3}; do echo -e "\n" ; done
+for i in {1..10}; do echo -e "\n" ; done
 
 echo -e "------------------- 番号页和搜索页完成 -------------------"
 
