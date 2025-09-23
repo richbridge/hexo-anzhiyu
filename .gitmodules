@@ -4,4 +4,4 @@
 	branch = dev
 [submodule "source/_posts"]
 	path = source/_posts
-	url = https://github.com/richbridge/posts.git
+	url = https://gitee.com/richfan/posts.git
