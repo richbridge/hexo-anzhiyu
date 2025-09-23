@@ -1,17 +1,17 @@
 #! /bin/bash
 
-echo -e "--------------------Deploy Begin --------------------"
+echo -e "-------------------- 开始部署 --------------------"
 
 git submodule update --remote --merge source/_posts
 git submodule update --remote --merge themes/anzhiyu
 
-echo -e "-------------------Step 1 Generate-------------------"
+echo -e "------------------- 子模块更新完成 -------------------"
 
-node link.js && hexo bangumi -u && hexo algolia
+hexo bangumi -u && hexo algolia
 
 for i in {1..3}; do echo -e "\n" ; done
 
-echo -e "-------------------Step 2 Update-------------------"
+echo -e "------------------- 番号页和搜索页完成 -------------------"
 
 time=$(date "+%Y%m%d%H%M%S")
 
@@ -20,6 +20,6 @@ git add .
 git commit -m "$time"
 git push -u origin main
 
-echo -e "-------------------Deploy End-------------------"
+echo -e "------------------- 上传完成 -------------------"
 
 exec /bin/bash
