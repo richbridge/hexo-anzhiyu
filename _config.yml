@@ -99,7 +99,7 @@ search:
   path: search.xml
   field: post
   content: true
-  template: ./search.xml
+  template: 
 
 plugins:
   - hexo-algoliasearch
