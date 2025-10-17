@@ -816,7 +816,7 @@ aside:
   hide: false
   button: true
   mobile: true # display on mobile
-  position: left # left or right
+  position: right # left or right
   display: # 控制对应详情页面是否显示侧边栏
     archive: true
     tag: true
