@@ -3,6 +3,7 @@
 echo -e "-------------------- 开始部署 --------------------"
 
 git submodule update --remote --merge source/_posts
+git submodule update --remote --merge source/img
 git submodule update --remote --merge themes/anzhiyu
 
 echo -e "------------------- 子模块更新完成 -------------------"
