@@ -1103,7 +1103,7 @@ home_top:
 friends_vue:
   enable: true
   vue_js: /js/fcircle.js # https://fastly.jsdelivr.net/gh/willow-god/Friend-Circle-Lite/main/fclite.min.js
-  apiurl: https://friends.252262.xyz/ # 朋友圈后端地址
+  apiurl: https://fc.liushen.fun/all.json # 朋友圈后端地址
   top_background: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/bg.avif
 
 # 深色模式粒子效果canvas
