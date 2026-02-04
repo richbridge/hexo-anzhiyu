@@ -832,7 +832,7 @@ aside:
             <span>❓ 如有问题欢迎评论区交流！</span><br>
             <span>😫 页面异常？尝试<kbd>Ctrl</kbd>+<kbd>F5</kbd></span><br>
             <span>📧 如需联系我：<a href="mailto:richffan@outlook.com"><b>发送邮件🚀</b></a></span>
-            <div id="welcome-info"></div> # 必须项
+            # <div id="welcome-info"></div> # 必须项
   card_weixin:
     enable: true
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
