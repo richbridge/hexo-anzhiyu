@@ -190,6 +190,7 @@ feed:
   enable: true
   type: atom
   path: atom.xml
+  limit: false
 
 # APlayer
 # https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
