@@ -12,7 +12,7 @@
     "version": "8.0.0"
   },
   "dependencies": {
-    "colorthief": "^2.6.0",
+    "colorthief": "^3.0.0",
     "hexo": "^8.0.0",
     "hexo-bilibili-bangumi": "^2.0.1",
     "hexo-butterfly-envelope": "^1.0.15",
