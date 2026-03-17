@@ -33,24 +33,24 @@ nav:
       item:
         - name: 导航
           link: https://nav.252262.xyz
-          icon: https://s2.loli.net/2025/03/28/W1un7SNJaT2UCA9.png
+          icon: https://files.seeusercontent.com/2026/03/16/i4Sf/logo_.png
         - name: 网盘
           link: https://pan.252262.xyz
-          icon: https://s2.loli.net/2025/03/28/W1un7SNJaT2UCA9.png
+          icon: https://files.seeusercontent.com/2026/03/16/i4Sf/logo_.png
         - name: 无题
           link: https://252262.xyz
-          icon: https://s2.loli.net/2025/03/28/W1un7SNJaT2UCA9.png
+          icon: https://files.seeusercontent.com/2026/03/16/i4Sf/logo_.png
         - name: 笔记
           link: https://262252.xyz
-          icon: https://s2.loli.net/2025/03/28/W1un7SNJaT2UCA9.png
+          icon: https://files.seeusercontent.com/2026/03/16/i4Sf/logo_.png
         - name: 专业
           link: https://richfan.eu.org
-          icon: https://s2.loli.net/2025/03/28/W1un7SNJaT2UCA9.png
+          icon: https://files.seeusercontent.com/2026/03/16/i4Sf/logo_.png
     - title: 项目
       item:
         - name: 不知所云
           link: https://nav.262252.xyz
-          icon: https://s2.loli.net/2025/03/28/W1un7SNJaT2UCA9.png
+          icon: https://files.seeusercontent.com/2026/03/16/i4Sf/logo_.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -151,7 +151,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://s2.loli.net/2025/03/28/W1un7SNJaT2UCA9.png
+favicon: https://files.seeusercontent.com/2026/03/16/xoG7/favicon.ico
 
 # Avatar (头像)
 avatar:
