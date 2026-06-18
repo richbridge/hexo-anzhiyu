@@ -4,7 +4,7 @@
 	branch = dev
 [submodule "source/_posts"]
 	path = source/_posts
-	url = https://gitee.com/richfan/posts.git
+	url = https://richfan:dbd9d9f5947dfab6b13c64b2b9dae527@gitee.com/richfan/posts.git
 [submodule "source/img"]
 	path = source/img
-	url = https://gitee.com/richfan/img.git
+	url = https://richfan:dbd9d9f5947dfab6b13c64b2b9dae527@gitee.com/richfan/img.git
