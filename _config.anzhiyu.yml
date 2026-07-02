@@ -835,9 +835,8 @@ aside:
             # <div id="welcome-info"></div> # 必须项
   card_weixin:
     enable: true
-    face: https://img.252262.xyz/file/1782983917725_wxmp.avif
-    backFace: https://img.252262.xyz/file/1782983917462_backface.avif
-  card_recent_post:
+    face: https://img.252262.xyz/file/1782983917462_face.avif
+    backFace: https://img.252262.xyz/file/1782983917725_wxmp.avif
     enable: true
     limit: 5 # if set 0 will show all
     sort: date # date or updated
