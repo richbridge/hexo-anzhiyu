@@ -182,7 +182,7 @@ cover:
 # Replace Broken Images (替换无法显示的图片)
 error_img:
   flink: https://img.252262.xyz/file/1782985295519_friend_404.gif
-  post_page: https://img.252262.xyz/file/1782986174197_bg.jpeg
+  post_page: https://img.252262.xyz/file/1778633412083_bg.jpeg
 
 # A simple 404 page
 error_404:
