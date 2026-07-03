@@ -76,7 +76,7 @@
     game_tips: 爱好游戏
     game_title: 王者荣耀
     game_uid: "UID: 125766904"
-    game_bg: https://shp.qpic.cn/ishow/2735052117/1747821355_829394697_19268_sProdImgNo_2.jpg
+    game_bg: https://shp.qpic.cn/ishow/2735041511/1776224485_829394697_13748_sProdImgNo_2.jpg
   comic:
     comic_tips: 爱好番剧
     comic_title: 追番
@@ -104,7 +104,7 @@
   music:
     music_tips: 音乐偏好
     music_title: 网易云、民谣、华语流行
-    music_bg: https://cdn.jsdelivr.net/gh/richbridge/picx-images-hosting@master/logo/音乐偏好.jpg
+    music_bg: https://img.252262.xyz/file/1783067743903_网易云.mp4
     music_link: /music
   reward_list:
     - name: 樊尘刹记
