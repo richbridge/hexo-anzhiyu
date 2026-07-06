@@ -5,6 +5,3 @@
 [submodule "source/_posts"]
 	path = source/_posts
 	url = https://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@github.com/richbridge/posts.git
-[submodule "source/img"]
-	path = source/img
-	url = https://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@github.com/richbridge/picx-images-hosting.git
