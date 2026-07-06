@@ -10,6 +10,10 @@ echo -e "------------------- 子模块更新完成 -------------------"
 
 hexo clean # hexo bangumi -u && hexo clean
 
+git submodule sync
+
+git submodule update --init --recursive
+
 for i in {1..2}; do echo -e "\n" ; done
 
 echo -e "------------------- 番号页和搜索页完成 -------------------"
