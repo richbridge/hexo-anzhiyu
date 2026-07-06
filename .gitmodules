@@ -4,7 +4,7 @@
 	branch = dev
 [submodule "source/_posts"]
 	path = source/_posts
-	url = https://github.com/richbridge/posts.git
+	url = https://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@github.com/richbridge/posts.git
 [submodule "source/img"]
 	path = source/img
-	url = https://github.com/richbridge/picx-images-hosting.git
+	url = https://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@github.com/richbridge/picx-images-hosting.git
